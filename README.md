@@ -8,8 +8,8 @@ Ejercicios entregables del módulo "Lenguajes". Los resultados se verán por con
    git clone https://github.com/tgordyn/Modulo-2---Lenguajes.git
 
 2. **Navegar al directorio del repositorio**:
-   cd MODULO-2-LENGUAJE
-   cd 03-playground-ejercicios
+   - cd MODULO-2-LENGUAJE
+   - cd 03-playground-ejercicios
 
 3. **Instalar las dependencias**:
    `npm install`
