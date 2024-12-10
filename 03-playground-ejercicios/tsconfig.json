@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",          // Objetivo: ESNext para soportar módulos modernos
+    "module": "ESNext",          // Usar módulos ES
+    "moduleResolution": "node",  // Resolución compatible con Node.js
+    "esModuleInterop": true,     // Para compatibilidad con CommonJS
+    "strict": true,              // Reglas estrictas
+    "outDir": "./dist",          // Carpeta de salida para el JavaScript transpilado
+    "rootDir": "./src"           // Carpeta raíz para TypeScript
+  },
+  "include": ["src/**/*.ts"],     // Incluir todos los archivos TypeScript en `src`
+  "exclude": ["node_modules"]     // Excluir `node_modules`
+}
